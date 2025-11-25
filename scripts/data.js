@@ -31,24 +31,14 @@ const contacts = {
         email: "pcstesr@sr.railnet.gov.in"
     },
     cse1: {
-        name: "K.Mani Venkata Kumar",
-        designation: "CSE-I",
+        name: "P.K. Deka",
+        designation: "CSE",
         railwayO: "22453",
         railwayR: "",
         bsnlO: "25346643",
         bsnlR: "",
-        mobile: "9003160801",
+        mobile: "9003160811",
         email: "cse@sr.railnet.gov.in"
-    },
-    cse2: {
-        name: "V.Babu",
-        designation: "CSE-II",
-        railwayO: "22949",
-        railwayR: "28893",
-        bsnlO: "",
-        bsnlR: "",
-        mobile: "",
-        email: ""
     },
     cce: {
         name: "Devendra Kumar Yadav",
@@ -61,7 +51,7 @@ const contacts = {
         email: "cce@sr.railnet.gov.in"
     },
     cste: {
-        name: "B.B.K Murthy",
+        name: "V. Babu",
         designation: "CSTE/Planning",
         railwayO: "22866",
         railwayR: "28505",
